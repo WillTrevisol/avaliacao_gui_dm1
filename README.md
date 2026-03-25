@@ -1,16 +1,14 @@
-# avaliacao_gui_dm1
+# Exercício Montagem GUI
 
-A new Flutter project.
+Projeto de avaliação para a disciplina DM1 - Desenvolvimento Multiplataforma 1.
 
-## Getting Started
+## Instituição
+Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP) - Câmpus São Carlos.
 
-This project is a starting point for a Flutter application.
+## Como Executar
+O projeto requer o Flutter SDK configurado. No terminal, acesse o diretório raiz do projeto e execute os comandos:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+flutter pub get
+flutter run
+```
